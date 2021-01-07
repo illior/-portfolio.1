@@ -1,0 +1,5 @@
+cd C:\Programs\Projects\Web\MoGo
+npm i gulp
+npm init
+npm i gulp-sass gulp-sourcemaps gulp-watch --SD
+gulp watch
