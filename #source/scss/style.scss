@@ -1678,9 +1678,11 @@ body {
 
 	.info__more {
 		margin-top: 20px;
-		
-		color:#333333;
+
+		a {
+			color:#333333;
 		font-size:13px;
 		font-style: italic;
+		}
 	}
 }

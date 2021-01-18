@@ -1276,9 +1276,10 @@ body {
           width: 100%;
           height: 100%; }
   .info .info__more {
-    margin-top: 20px;
-    color: #333333;
-    font-size: 13px;
-    font-style: italic; }
+    margin-top: 20px; }
+    .info .info__more a {
+      color: #333333;
+      font-size: 13px;
+      font-style: italic; }
 
 /*# sourceMappingURL=style.css.map */
